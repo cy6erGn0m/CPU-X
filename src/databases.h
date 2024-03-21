@@ -230,6 +230,7 @@ const Package_DB package_intel[] =
 	{ NULL,                             "Intel(R) Core(TM) i7-4770 CPU",    "LGA 1155"       },
 	{ NULL,                             "Intel(R) Core(TM) i3-4350 CPU",    "LGA 1150"       },
 	{ NULL,                             "Intel(R) Xeon(R) Gold 5220 CPU",   "LGA 3647"       },
+        { NULL,                             "Intel(R) Xeon(R) Gold 6266C CPU",  "LGA 3647"      }, 
 	{ NULL,                             "Intel(R) Xeon(R) CPU E5-2689",     "LGA 2011"       },
 	{ NULL,                             "Intel(R) Xeon(R) CPU E5-2690 ",    "LGA 2011"       },
 	{ NULL,                             "Intel(R) Xeon(R) CPU E5-2690 v2",  "LGA 2011"       },
